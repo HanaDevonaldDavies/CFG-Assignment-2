@@ -13,13 +13,7 @@ A simple Python console application that fetches and displays random cat facts u
 
 ## Usage
 
-1. **Run the Script**
-
-    ```sh
-    python cat_fact_generator.py
-    ```
-
-2. **Follow the On-Screen Instructions**
+**Follow the On-Screen Instructions**
 
     - Enter the number of cat facts you want to fetch.
     - Decide if you want to fetch more facts when prompted.
