@@ -14,9 +14,9 @@ A simple Python console application that fetches and displays random cat facts u
 ## Usage
 
 **Follow Instructions**
-    - Enter the number of cat facts you want to fetch.
-    - Decide if you want to fetch more facts when prompted.
-    - The facts will be displayed in the console and saved to a file with a timestamped filename.
+- Enter the number of cat facts you want to fetch.
+- Decide if you want to fetch more facts when prompted.
+- The facts will be displayed in the console and saved to a file with a timestamped filename.
 
 ## Example
 
