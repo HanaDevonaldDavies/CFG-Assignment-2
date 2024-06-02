@@ -1,6 +1,6 @@
 # CFG-Assignment-2 -  Cat Fact Generator
 
-This is a simple Python console application that fetches and displays random cat facts using the [Cat Facts API](https://cat-fact.herokuapp.com/facts/random). The user can specify the number of facts they want, and the facts are then displayed and saved to a file with a timestamped filename.
+A simple Python console application that fetches and displays random cat facts using the [Cat Facts API](https://cat-fact.herokuapp.com/facts/random). The user can specify the number of facts they want, and the facts are then displayed and saved to a file with a timestamped filename.
 
 ## Features
 
@@ -10,28 +10,6 @@ This is a simple Python console application that fetches and displays random cat
 - Asks the user if they want to fetch more facts.
 - Saves all fetched facts to a file with a timestamped filename.
 - Displays the first five facts if five or more are fetched.
-
-## Prerequisites
-
-- Python 3.x
-- `requests` library
-
-## Installation
-
-1. **Clone the Repository**
-
-    ```sh
-    git clone https://github.com/yourusername/cat_fact_project.git
-    cd cat_fact_project
-    ```
-
-2. **Install the Required Library**
-
-    Make sure you have `requests` installed. You can install it using pip:
-
-    ```sh
-    pip install requests
-    ```
 
 ## Usage
 
@@ -57,7 +35,4 @@ Fact 3: The world's largest cat measured 48.5 inches long.
 
 Do you want more cat facts? (yes/no): no
 All facts saved to cat_facts_20240531_123456.txt
-Here are the first 5 cat facts:
-Fact 1: Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs.
-Fact 2: A group of cats is called a clowder.
-Fact 3: The world's largest cat measured 48.5 inches long.
+
