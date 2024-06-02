@@ -13,15 +13,13 @@ A simple Python console application that fetches and displays random cat facts u
 
 ## Usage
 
-**Follow the On-Screen Instructions**
-
+**Follow Instructions**
     - Enter the number of cat facts you want to fetch.
     - Decide if you want to fetch more facts when prompted.
     - The facts will be displayed in the console and saved to a file with a timestamped filename.
 
 ## Example
 
-```plaintext
 How many cat facts do you want? 3
 Fact 1: Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs.
 Fact 2: A group of cats is called a clowder.
