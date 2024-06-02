@@ -21,9 +21,9 @@ A simple Python console application that fetches and displays random cat facts u
 ## Example
 
 How many cat facts do you want? 3
-Fact 1: Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs.
-Fact 2: A group of cats is called a clowder.
-Fact 3: The world's largest cat measured 48.5 inches long.
+- Fact 1: Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs.
+- Fact 2: A group of cats is called a clowder.
+- Fact 3: The world's largest cat measured 48.5 inches long.
 
 Do you want more cat facts? (yes/no): no
 All facts saved to cat_facts_20240531_123456.txt
